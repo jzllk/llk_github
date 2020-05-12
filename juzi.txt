@@ -1,2 +1,3 @@
+	linux
 现在在 linux 分支
 新添加了一个 juzi.txt 文件

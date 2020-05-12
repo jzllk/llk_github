@@ -1,2 +1,3 @@
+	linux
 现在是 linux 分区
 新添加了一个 llk.txt 文件
