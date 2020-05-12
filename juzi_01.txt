@@ -1,2 +1,3 @@
+	windows
 现在在 juzi 分支
 添加了一个 juzi_01.txt 文件
